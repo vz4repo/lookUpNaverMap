@@ -1,7 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Look Up Naver Map",
-  "version": "0.1",
+  "version": "0.1.1",
+  "description": "Select, click, and search addresses on Naver Map.",
   "icons": {
     "16": "images/map_service_icon_16.png", 
     "48": "images/map_service_icon_48.png", 
